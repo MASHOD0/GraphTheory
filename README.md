@@ -71,6 +71,8 @@ The cell m[i][j] represents the edge weight of going from node i to node j.
 It is assumed that the edge of going from a node to itself has a cost of zero.
 
 ![Graph%20Theory%20bd6d1996d4954d3d9abd38c6e0aa92ba/Untitled%207.png](Graph%20Theory%20bd6d1996d4954d3d9abd38c6e0aa92ba/Untitled%207.png)
+![image](https://user-images.githubusercontent.com/63853764/136434548-ebe722c4-bf72-4215-81cb-492923d98ec9.png)
+
 
 [Pros and Cons](Graph%20Theory%20bd6d1996d4954d3d9abd38c6e0aa92ba/Pros%20and%20Cons%2072ac7902dacb4a1bbaf4e9fb24d96289.csv)
 
