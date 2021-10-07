@@ -81,6 +81,7 @@ It is assumed that the edge of going from a node to itself has a cost of zero.
 Represent a graph as a map from nodes to lists to edges .
 
 ![Graph%20Theory%20bd6d1996d4954d3d9abd38c6e0aa92ba/Untitled%208.png](Graph%20Theory%20bd6d1996d4954d3d9abd38c6e0aa92ba/Untitled%208.png)
+![image](https://user-images.githubusercontent.com/63853764/136434883-9ae29945-18b2-4f94-a712-89b85a11edcc.png)
 
 [Untitled](Graph%20Theory%20bd6d1996d4954d3d9abd38c6e0aa92ba/Untitled%20Database%203037ccfae13e4f0e8148560dc624c172.csv)
 
