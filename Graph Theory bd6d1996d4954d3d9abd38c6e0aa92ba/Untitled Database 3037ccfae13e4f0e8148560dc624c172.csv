@@ -1,0 +1,4 @@
+﻿Pros,Cons
+Space efficent for representing sparse graphs,Less space efficient for denser for denser graphs .
+Iterating over all the edges is efficent,Edge weight lookup is O(E)
+,Slightly more complex graph representation
